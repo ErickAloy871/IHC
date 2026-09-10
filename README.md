@@ -153,4 +153,4 @@ El desarrollo de esta práctica permitió comprender cómo la Interacción Human
 
 ## Link prototipo:
 
-https://www.figma.com/make/WClEJSdhHVASlQs67uVQSY/Mockups-para-app-de-citas?p=f&t=kTjzdPw8XvLdWtE9-0
+[https://www.figma.com/make/WClEJSdhHVASlQs67uVQSY/Mockups-para-app-de-citas?p=f&t=kTjzdPw8XvLdWtE9-0](https://www.figma.com/make/WClEJSdhHVASlQs67uVQSY/Mockups-para-app-de-citas?code-node-id=0-6&p=f&t=KIsHBmPj7LxlQB5v-0&fullscreen=1)
