@@ -150,3 +150,7 @@ El desarrollo de esta práctica permitió comprender cómo la Interacción Human
 
 - Ejecutar las pruebas de usabilidad reales del protocolo de la Actividad 7 con los 3 perfiles de participantes antes de avanzar a una eventual etapa de desarrollo.
 - Conectar el prototipo a un backend real permitiría verificar en producción los indicadores de eficiencia definidos en la Actividad 4 (tasas de duplicados evitados, confirmaciones entregadas, trazabilidad conservada).
+
+## Link prototipo:
+
+https://www.figma.com/make/WClEJSdhHVASlQs67uVQSY/Mockups-para-app-de-citas?p=f&t=kTjzdPw8XvLdWtE9-0
