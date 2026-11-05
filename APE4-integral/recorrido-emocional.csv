@@ -1,0 +1,9 @@
+touchpoint,etapa,emocion_predicha_-2_a_2,momento_de_verdad,tipo_de_dato,nota
+tp1,Entrar al sistema,0,no,prediccion,Quiere agendar rápido
+tp2,Elegir especialidad,1,no,prediccion,Opciones claras
+tp3,Elegir médico,0,no,prediccion,Duda si el médico es el correcto
+tp4,Elegir fecha y hora,-1,si,prediccion,Teme que el horario se pierda
+tp5,Llenar datos,-1,no,prediccion,Formulario largo
+tp6,Revisar resumen,1,no,prediccion,Siente control
+tp7,Confirmar cita,-2,si,prediccion,Si falla pierde confianza
+tp8,Recibir código,2,no,prediccion,Alivio al ver confirmación

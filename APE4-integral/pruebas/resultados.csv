@@ -1,0 +1,7 @@
+participante,tarea,tiempo_seg,exito,errores,comentario,emocion_observada
+P01,T1,12,si,0,"Encontró cómo agendar con Medicina general de inmediato; flujo intuitivo",Tranquilidad
+P01,T2,52,si,2,"Ingresó teléfono con espacios; al fallar 10:30 intentó reintentar sin éxito",Frustración
+P01,T3,15,si,0,"Seleccionó 11:00, confirmó y leyó de inmediato el código CM-001",Alivio
+P02,T1,9,si,0,"Identificó el botón principal y la especialidad rápidamente",Seguridad
+P02,T2,41,si,1,"Omitió un apellido; tras fallo en 10:30 reinició la selección de horario",Molestia
+P02,T3,13,si,0,"Confirmó la cita sin dudas y dictó el código de confirmación CM-001",Satisfacción
